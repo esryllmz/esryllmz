@@ -19,11 +19,14 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original-wordmark.svg" alt="MSSQL" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> </a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="ElasticSearch" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/efcore/efcore-original-wordmark.svg" alt="EF Core" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/aspnet/mvc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original-wordmark.svg" alt="ASP.NET MVC" width="40" height="40"/> </a>
+  <a href="https://www.cqrs.nu/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cqrs/cqrs-original-wordmark.svg" alt="CQRS" width="40" height="40"/> </a>
+  <a href="https://www.codeproject.com/Articles/539938/Onion-Architecture" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/onionarchitecture/onionarchitecture-original-wordmark.svg" alt="Onion Architecture" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">İstatistikler:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esryllmz&show_icons=true&locale=en&layout=compact" alt="esryllmz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esryllmz&show_icons=true&locale=en" alt="esryllmz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esryllmz&" alt="esryllmz" /></p>
